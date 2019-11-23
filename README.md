@@ -11,8 +11,8 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
      - Reference: http://www.sciencedirect.com/science/article/pii/S1053811919306469 <br>
   </p>
   </details>
-  
- - Deepqsm
+ 
+- Deepqsm
 </br> <details><summary>Details</summary>
   <p>
      - Language: Python <br/>
