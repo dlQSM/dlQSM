@@ -33,8 +33,20 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
                   &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;https://arxiv.org/abs/1909.07716
   </p>
   </details>
+ 
   
-  
+- VaNDI
+</br> <details><summary>Details</summary>
+  <p>
+     - Language: Python <br/>
+     - Method: Dipole inversion <br/>
+     - Code: 
+https://www.dropbox.com/s/ubabfhwfpjphpo1/NDI_Toolbox.zip?dl=0 <br/>
+     - Reference: http://arxiv.org/abs/1909.13692
+  </p>
+  </details>
+
+
 # Phase to QSM
 - autoQSM
 </br> <details><summary>Details</summary>
