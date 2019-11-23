@@ -8,7 +8,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
      - Language: Python <br/>
      - Method: Background field correction <br/>
      - Reference: http://www.sciencedirect.com/science/article/pii/S0939388918301673 <br/>
-      - code: not yet available <br>
+      - code: not yet publicly available, but on request: steffen.bollmann@cai.uq.edu.au <br>
   </p>
   </details>
   
