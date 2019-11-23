@@ -7,8 +7,8 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   <p>
      - Language: Python <br/>
      - Method: Background field correction <br/>
+     - code: not yet publicly available, but available on request: steffen.bollmann@cai.uq.edu.au <br>
      - Reference: http://www.sciencedirect.com/science/article/pii/S0939388918301673 <br/>
-      - code: not yet publicly available, but on request: steffen.bollmann@cai.uq.edu.au <br>
   </p>
   </details>
   
@@ -18,8 +18,8 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   <p>
      - Language: Python <br/>
      - Method: Dipole inversion <br/>
+     - code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
      - Reference: https://doi.org/10.1016/j.neuroimage.2019.03.060 <br/>
-      - code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
   </p>
   </details>
   
@@ -40,9 +40,8 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   <p>
      - Language: Python <br/>
      - Method: Dipole inversion <br/>
-     - Code: 
-https://www.dropbox.com/s/ubabfhwfpjphpo1/NDI_Toolbox.zip?dl=0 <br/>
-     - Reference: http://arxiv.org/abs/1909.13692
+     - Code: https://www.dropbox.com/s/ubabfhwfpjphpo1/NDI_Toolbox.zip?dl=0 <br/>
+     - Reference: http://arxiv.org/abs/1909.13692 <br/>
   </p>
   </details>
 
@@ -54,6 +53,6 @@ https://www.dropbox.com/s/ubabfhwfpjphpo1/NDI_Toolbox.zip?dl=0 <br/>
      - Language: Python <br/>
      - Method: Background field correction + Dipole inversion <br/>
      - Code: not yet available <br/>
-     - Reference: http://www.sciencedirect.com/science/article/pii/S1053811919306469 <br>
+     - Reference: http://www.sciencedirect.com/science/article/pii/S1053811919306469 <br/>
   </p>
   </details>
