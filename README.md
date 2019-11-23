@@ -1,17 +1,18 @@
 # Deep learning-based QSM
-List of deep learning-based quantitative susceptibility mapping (QSM) projects with source code and data
+List of deep learning-based quantitative susceptibility mapping (QSM) projects with source code and data where available
 
-# Toolkits
-- autoQSM
+# Background field correction
+- SHARQnet
 </br> <details><summary>Details</summary>
   <p>
      - Language: Python <br/>
-     - Method: Background field correction + Dipole inversion <br/>
-     - Code: https://people.eecs.berkeley.edu/~chunlei.liu/software.html (not yet available) <br/>
-     - Reference: http://www.sciencedirect.com/science/article/pii/S1053811919306469 <br>
+     - Method: Background field correction <br/>
+     - Reference: http://www.sciencedirect.com/science/article/pii/S0939388918301673 <br/>
+      - code: not yet available <br>
   </p>
   </details>
- 
+  
+# Dipole Inversion
 - Deepqsm
 </br> <details><summary>Details</summary>
   <p>
@@ -34,4 +35,13 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   </details>
   
   
-
+# Phase to QSM
+- autoQSM
+</br> <details><summary>Details</summary>
+  <p>
+     - Language: Python <br/>
+     - Method: Background field correction + Dipole inversion <br/>
+     - Code: not yet available <br/>
+     - Reference: http://www.sciencedirect.com/science/article/pii/S1053811919306469 <br>
+  </p>
+  </details>
