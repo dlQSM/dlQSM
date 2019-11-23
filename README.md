@@ -7,7 +7,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   <p>
      - Language: Python <br/>
      - Method: Background field correction <br/>
-     - code: not yet publicly available, but available on request: steffen.bollmann@cai.uq.edu.au <br>
+     - Code: not yet publicly available, but available on request: steffen.bollmann@cai.uq.edu.au <br>
      - Reference: http://www.sciencedirect.com/science/article/pii/S0939388918301673 <br/>
   </p>
   </details>
@@ -18,7 +18,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   <p>
      - Language: Python <br/>
      - Method: Dipole inversion <br/>
-     - code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
+     - Code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
      - Reference: https://doi.org/10.1016/j.neuroimage.2019.03.060 <br/>
   </p>
   </details>
