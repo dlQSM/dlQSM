@@ -19,6 +19,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
      - Language: Python <br/>
      - Method: Dipole inversion <br/>
      - Code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
+     - Tutorial: https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/137444 (start: 1:16:56)
      - Reference: https://doi.org/10.1016/j.neuroimage.2019.03.060 <br/>
   </p>
   </details>
