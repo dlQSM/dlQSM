@@ -5,7 +5,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
 - SHARQnet
 </br> <details><summary>Details</summary>
   <p>
-     - Language: Python <br/>
+     - Language: Python (Tensorflow) <br/>
      - Method: Background field correction <br/>
      - Code: not yet publicly available, but available on request: steffen.bollmann@cai.uq.edu.au <br>
      - Reference: http://www.sciencedirect.com/science/article/pii/S0939388918301673 <br/>
@@ -13,10 +13,21 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
   </details>
   
 # Dipole Inversion
+- xQSM
+</br> <details><summary>Details</summary>
+  <p>
+     - Language: MATLAB & Python (Pytorch) <br/>
+     - Method: Dipole inversion <br/>
+     - Code: https://github.com/sunhongfu/deepMRI/tree/master/xQSM <br/>
+     - Reference: https://arxiv.org/abs/2004.06281 <br>
+  </p>
+  </details>
+
+
 - Deepqsm
 </br> <details><summary>Details</summary>
   <p>
-     - Language: Python <br/>
+     - Language: Python (Tensorflow) <br/>
      - Method: Dipole inversion <br/>
      - Code: https://colab.research.google.com/github/brainhack101/IntroDL/blob/master/notebooks/2019/Bollman/Steffen_Bollman_Deep_learning_QSM_tutorial_OHBM.ipynb <br>
      - Tutorial: https://www.pathlms.com/ohbm/courses/12238/sections/15846/video_presentations/137444 (start: 1:16:56)
@@ -27,7 +38,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
 - QSMnet+
 </br> <details><summary>Details</summary>
   <p>
-     - Language: Python <br/>
+     - Language: Python (Tensorflow) <br/>
      - Method: Dipole inversion <br/>
      - Code: https://github.com/SNU-LIST/QSMnet <br/>
      - Reference: https://doi.org/10.1016/j.neuroimage.2018.06.030 <br>
@@ -39,7 +50,7 @@ List of deep learning-based quantitative susceptibility mapping (QSM) projects w
 - VaNDI
 </br> <details><summary>Details</summary>
   <p>
-     - Language: Python <br/>
+     - Language: Python (Tensorflow) <br/>
      - Method: Dipole inversion <br/>
      - Code: https://www.dropbox.com/s/ubabfhwfpjphpo1/NDI_Toolbox.zip?dl=0 <br/>
      - Reference: http://arxiv.org/abs/1909.13692 <br/>
